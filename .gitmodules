@@ -7,6 +7,6 @@
 [submodule "web-resilience-test-result"]
 	path = web-resilience-test-result
 	url = https://github.com/irvin/web-resilience-test-result.git
-[submodule "top-traffic-list-taiwan"]
-	path = top-traffic-list-taiwan
+[submodule "top-traffic-list-korea"]
+	path = top-traffic-list-korea
 	url = https://github.com/irvin/top-traffic-website-list-korea.git
