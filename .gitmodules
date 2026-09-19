@@ -1,6 +1,6 @@
 [submodule "web-resilience-test-kr"]
 	path = web-resilience-test-kr
-	url = git@github.com:irvin/web-resilience-test-kr.git
+	url = git@github.com:web-resilience-test/web-resilience-test-kr.git
 [submodule "web-resilience-test-profile"]
 	path = web-resilience-test-profile
 	url = https://github.com/irvin/web-resilience-test-profile.git
@@ -9,4 +9,4 @@
 	url = https://github.com/irvin/web-resilience-test-result.git
 [submodule "top-traffic-list-korea"]
 	path = top-traffic-list-korea
-	url = https://github.com/irvin/top-traffic-website-list-korea.git
+	url = git@github.com:web-resilience-test/top-traffic-website-list-korea.git
