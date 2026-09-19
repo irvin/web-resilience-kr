@@ -1,0 +1,12 @@
+[submodule "web-resilience-test"]
+	path = web-resilience-test
+	url = https://github.com/irvin/web-resilience-test.git
+[submodule "web-resilience-test-profile"]
+	path = web-resilience-test-profile
+	url = https://github.com/irvin/web-resilience-test-profile.git
+[submodule "web-resilience-test-result"]
+	path = web-resilience-test-result
+	url = https://github.com/irvin/web-resilience-test-result.git
+[submodule "top-traffic-list-taiwan"]
+	path = top-traffic-list-taiwan
+	url = https://github.com/irvin/top-traffic-list-taiwan.git
