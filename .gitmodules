@@ -1,6 +1,6 @@
-[submodule "web-resilience-test"]
-	path = web-resilience-test
-	url = https://github.com/irvin/web-resilience-test.git
+[submodule "web-resilience-test-kr"]
+	path = web-resilience-test-kr
+	url = git@github.com:irvin/web-resilience-test-kr.git
 [submodule "web-resilience-test-profile"]
 	path = web-resilience-test-profile
 	url = https://github.com/irvin/web-resilience-test-profile.git
