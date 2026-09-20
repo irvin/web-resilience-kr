@@ -6,7 +6,7 @@
 	url = https://github.com/irvin/web-resilience-test-profile.git
 [submodule "web-resilience-test-result"]
 	path = web-resilience-test-result
-	url = https://github.com/irvin/web-resilience-test-result.git
+	url = https://github.com/web-resilience-test/web-resilience-test-result-kr.git
 [submodule "top-traffic-list-korea"]
 	path = top-traffic-list-korea
 	url = git@github.com:web-resilience-test/top-traffic-website-list-korea.git
